@@ -1,4 +1,4 @@
-# KOLAY GET Bilet Satış Uygulaması
+# KOLAY GET Bilet Satis Uygulamasi
 Yapmış olduğum uygulama merkezde bulunan gişelerde bilet satış uygulaması olup aşağıdaki özellikleri barındırmaktadır. 
 -	Bilet Satış İşlemi
 -	Bilet silme işlemi
