@@ -3,11 +3,11 @@ Yapmış olduğum uygulama merkezde bulunan gişelerde bilet satış uygulaması
 -	Bilet Satış İşlemi
 -	Bilet silme işlemi
 -	Müşteri İşlemleri
-o	Geçmişe ait bilet satışında hata verir.
-o	Müşteri Kayıt İşlem.
-o	Müşteri kayıt güncelleme işlemi (Boş alan bırakılırsa hata verir.)
-o	Müşteri kayıt silme işlemi
-o	Müşteri TC Kimlik Numarası, Telefon numarası ve mail adresine göre aynı kaydın bir daha gerçekleşmemesi
+-	Geçmişe ait bilet satışında hata verir.
+-	Müşteri Kayıt İşlem.
+-	Müşteri kayıt güncelleme işlemi (Boş alan bırakılırsa hata verir.)
+-	Müşteri kayıt silme işlemi
+-	Müşteri TC Kimlik Numarası, Telefon numarası ve mail adresine göre aynı kaydın bir daha gerçekleşmemesi
 -	Kayıtlı Müşterileri Bilgilerinin Listelenmesi
 -	İsteğe bağlı otobüs firma seçimi
 -	Güzergah işlemleri
