@@ -1,6 +1,5 @@
-# BiletSat-Uygulamas-
-##KOLAY GET ULASIM
-#Yapmış olduğum uygulama merkezde bulunan gişelerde bilet satış uygulaması olup aşağıdaki özellikleri barındırmaktadır. 
+# KOLAY GET Bilet Satış Uygulaması
+##Yapmış olduğum uygulama merkezde bulunan gişelerde bilet satış uygulaması olup aşağıdaki özellikleri barındırmaktadır. 
 -	Bilet Satış İşlemi
 -	Bilet silme işlemi
 -	Müşteri İşlemleri
